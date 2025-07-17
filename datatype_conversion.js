@@ -1,9 +1,26 @@
-let score=33;
 
-console.log(typeof score)
-let a=String(score)
-console.log(typeof a)
+//  console.log(typeof b);
+//  console.log(b);
 
-// "33"--> 33
-// "33abc"--> number type....NaN
-// true -> 1,false ->0
+//operations-->
+
+// console.log(2+2)
+// console.log(2-2)
+// console.log(2*2)
+// console.log(2**3)
+// console.log(2/3)
+// console.log(2%3)
+
+
+
+// console.log("hello " + "yarr");
+// console.log("1"+2)
+// console.log(1+"2")
+// console.log("1"+2+2)
+// console.log(1+2+"2")
+
+
+// console.log(+true);
+// console.log(+"");
+
+
